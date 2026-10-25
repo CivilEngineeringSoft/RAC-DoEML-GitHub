@@ -1,0 +1,9 @@
+{
+  "versions": {
+    "scikit-learn": "1.9.1",
+    "xgboost": "3.4.1",
+    "catboost": "1.2.10"
+  },
+  "seed": 42,
+  "test_size": 0.2
+}
