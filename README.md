@@ -97,10 +97,6 @@ streamlit run streamlit_app.py
 4. The app is private at first, because the repository is private. Open it and click **Share** →
    **"This app is public and searchable"**.
 
-**Free plan limit:** Streamlit Community Cloud allows only **one private app** per account, but any
-number of public apps. Both your apps (RAC-MLmrpi and RAC-DoEML) come from private repositories,
-so make each public right after deploying it.
-
 ## Folder content
 
 | Path | Content |
