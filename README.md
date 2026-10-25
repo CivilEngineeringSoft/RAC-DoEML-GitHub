@@ -4,7 +4,7 @@ Web application accompanying the article *Experimental Analysis and Taguchi Opti
 Residual Mechanical Behavior of Recycled Aggregate Concretes at Different Temperature Levels*
 (Cirhuza Badesire, Di Cesare, Vu, Bishweka).
 
-- **Public app:** https://rac-doeml.streamlit.app (update this link once the app is deployed)
+- **Public app:** https://rac-doeml-app.streamlit.app (update this link once the app is deployed)
 - This repository (code, dataset, trained models) is **private**. The app never displays or exports
   the dataset.
 
